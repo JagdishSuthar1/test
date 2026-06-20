@@ -396,4 +396,4 @@ function merge<T extends object, U extends object> (obj1 : T , obj2 : U) {
 }
 
 console.log(merge({name : "Jagdish"},{age : 22}))
-console.log("Hello")
+console.log("I am in new branch")
